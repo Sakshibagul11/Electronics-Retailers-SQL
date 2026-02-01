@@ -1,4 +1,4 @@
-# ⚡Electronics_retailer_sql_project
+# ⚡Electronics Retailer SQL
 
 ## 🎯 Objective
 Analyze multi-country sales data from a fictional global electronics retailer to generate actionable business insights using advanced SQL 📊. This project covers end-to-end SQL analytics including data cleaning, KPI creation, window functions, and profitability analysis 🚀.
